@@ -1,5 +1,5 @@
 ﻿﻿Daily Discharge (m3/s) (PARAM = 1) and Daily Water Level (m) (PARAM = 2)
- ID,PARAM,Date,Value,SYM
+ID,PARAM,Date,Value,SYM
 02HC027,1,1966/07/04,0.357,
 02HC027,1,1966/07/05,0.249,
 02HC027,1,1966/07/06,0.275,
