@@ -17,6 +17,6 @@ Daniel: Completed all zoning, greenspace, neighbourhood and flooding geospatial 
 
 Aziz: 
 
-Lyimo: 
+Lyimo: Processed geospatial data utilizing QGIS in order for map data compilation. Conducted exploratory analysis for correlations of percentage flooding per neighbourhood and neighbourhood demographic data. Calculated vulnerability indexes for neighbourhoods and explored similar correlations to flood data. 
 
 
