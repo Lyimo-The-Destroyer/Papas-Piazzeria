@@ -3,6 +3,8 @@
 This project seeks to investigate the factors influencing flood impact across Toronto, with the goal of understanding who, where, and what is most at risk during heavy rainfall events. 
 By analyzing diverse datasets, we aim to uncover patterns and relationships that can inform future urban planning and flood management efforts.
 
+Check out our article: https://medium.com/@daniel.riveranarvaez/183d867f32d3
+
 # Running the Analysis
 
 Anaconda is recommended for running code for this project, some additional packages may need to be installed to properly run the code.
