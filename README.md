@@ -13,7 +13,7 @@ Most files needed are available on the github, however, the geojson for the Floo
 # Attribution Table
 Maya: Completed data gathering, Completed "Climate Analysis.ipynb", contributed to analysis, EDA, and code writing in "Flow data analysis.inpyb", contributed to introduction slides and climate-related slides on the presentation, wrote the climate/precipitation, introduction, and background sections for the Medium Article
 
-Daniel: Completed all zoning, greenspace, neighbourhood and flooding geospatial analysis and visualization, wrote corresponding section for the Medium article, reviewed and edited the presentation slides
+Daniel: Completed all zoning, greenspace, neighbourhood and flooding geospatial analysis and visualization, wrote corresponding section for the Medium article, reviewed and edited the presentation slides. Created, managed, and published the Medium article.
 
 Aziz: 
 
