@@ -17,7 +17,7 @@ Maya: Completed data gathering, Completed "Climate Analysis.ipynb", contributed 
 
 Daniel: Completed all zoning, greenspace, neighbourhood and flooding geospatial analysis and visualization, wrote corresponding section for the Medium article, reviewed and edited the presentation slides. Created, managed, and published the Medium article.
 
-Aziz: 
+Aziz: Completed "Flow Data Analysis.ipynb," analyzing flow_data, significant_rain_events, significant_snow_melt_events, and processed_climate_data. I processed the previously mentioned datasets, performed exploratory data analysis (EDA), and created relevant graphs. Additionally, I contributed to the slides and  contributed to the Medium article, specifically the section corresponding to flow data.
 
 Lyimo: Processed geospatial data utilizing QGIS in order for map data compilation. Conducted exploratory analysis for correlations of percentage flooding per neighbourhood and neighbourhood demographic data. Calculated vulnerability indexes for neighbourhoods and explored similar correlations to flood data. 
 
